@@ -10,4 +10,4 @@
 
 ## Vista previa del la web
 
-![Vista Previa](./dist/img/clon-amazon.png "Vista previa")
+![Vista Previa](./img/clon-amazon.png "Vista previa")
